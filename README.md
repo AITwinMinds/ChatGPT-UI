@@ -1,6 +1,9 @@
-# ChatGPT Interface
+<h1 align="left">ChatGPT Interface</h1>
 
-![ChatGPT Interface](https://github.com/I-A-Team/ChatGPT-UI/blob/main/icon.ico)
+<img align="right" width="100" height="100" src="https://github.com/I-A-Team/ChatGPT-UI/blob/main/icon.png" alt="ChatGPT Interface">
+
+<!-- Rest of your README content goes here -->
+
 
 This repository contains a graphical user interface (GUI) for seamless interaction with OpenAI's GPT-3.5 Turbo model using the ChatGPT API. The interface, built using PyQt5, offers an intuitive and feature-rich environment for generating responses, rephrasing text, debugging code, summarizing content, translating languages, and more.
 
