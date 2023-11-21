@@ -50,7 +50,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Download
 
-- Executable file for Windows can be downloaded from the [Releases](https://github.com/yourusername/chatgpt-interface/releases) page.
+- Executable file for Windows can be downloaded from the [Releases](https://github.com/I-A-Team/ChatGPT-UI/releases) page.
 
 ## Configuration
 
