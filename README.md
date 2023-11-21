@@ -76,4 +76,4 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact us at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, please contact us at [AITwinMinds@gmail.com](mailto:AITwinMinds@gmail.com).
