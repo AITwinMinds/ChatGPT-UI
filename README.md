@@ -9,17 +9,21 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Features
 
-- **User-Friendly Interface**: Enjoy a clean and intuitive interface for easy prompt input and response viewing.
+- **🌙 Dark Theme**: Enjoy a sleek and eye-friendly dark theme for a comfortable and visually appealing interface, especially during nighttime usage.
+  
+- **🔝 Always On Top**: Quickly access ChatGPT UI with the enhanced "Always On Top" feature, allowing you to keep it above other applications.
 
-- **Prompt Options**: Select from various prompt options such as rephrase, debug code, summarize, translate, reply to email, explain, and manual prompts.
+- **🔄 HTTP Proxy Support**: Enable an HTTP proxy for communication with the ChatGPT API.
 
-- **Language Translation**: Translate text from one language to another using the language dropdowns.
+- **🤝 User-Friendly Interface**: Enjoy a clean and intuitive interface for easy prompt input and response viewing.
 
-- **Code Highlighting**: Code blocks in the output are highlighted for better readability.
+- **🖋️ Prompt Options**: Select from various prompt options such as rephrase, debug code, summarize, translate, reply to email, explain, and manual prompts.
 
-- **Clipboard Integration**: Easily apply text from the clipboard as a prompt with a single checkbox.
+- **🌐 Language Translation**: Translate text from one language to another using the language dropdowns.
 
-- **HTTP Proxy Support**: Enable an HTTP proxy for communication with the ChatGPT API.
+- **🎨 Code Highlighting**: Code blocks in the output are highlighted for better readability.
+
+- **📋 Clipboard Integration**: Easily apply text from the clipboard as part of the prompt with a single checkbox.
 
 ## Usage
 
@@ -29,7 +33,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 3. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
-4. **Clipboard Option**: Use the last clipboard text as a prompt with a single checkbox.
+4. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
 
 5. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
 
@@ -38,18 +42,6 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 7. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
 
 8. **Stop Process**: Click the "Stop" button to halt the response generation process.
-
-## Clipboard Integration
-
-- **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
-
-## Dependencies
-
-- PyQt5
-- httpx
-- openai
-- bs4 (Beautiful Soup)
-- pygments
 
 ## Download
 
