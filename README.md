@@ -26,7 +26,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 - **📋 Clipboard Integration**: Easily apply text from the clipboard as part of the prompt with a single checkbox.
 
 ![Your Animation](https://github.com/AITwinMinds/ChatGPT-UI/blob/main/Test_video.mp4)
-<video loop src="Test_video.mp4">  video </video> 
+
 ## Usage
 
 1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). If you're a free user, the first three months are free. After this period, consider becoming a plus user or creating a new account to access an additional three months of free usage.
