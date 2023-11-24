@@ -27,21 +27,23 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Usage
 
-1. **API Key Setup**: Obtain an API key from OpenAI and enter it in the provided field. Click "Fix/Unfix API Key" to toggle the fix/unfix status.
+1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). If you're a free user, the first three months are free. After this period, consider becoming a plus user or creating a new account to access an additional three months of free usage.
 
-2. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button.
+2. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
-3. **Language Translation**: If translating, select the source and target languages from the dropdowns.
+3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button.
 
-4. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
-5. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
+5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
 
-6. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
+6. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
 
-7. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
+7. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
 
-8. **Stop Process**: Click the "Stop" button to halt the response generation process.
+8. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
+
+9. **Stop Process**: Click the "Stop" button to halt the response generation process.
 
 ## Download
 
