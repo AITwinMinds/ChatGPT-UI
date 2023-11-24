@@ -50,19 +50,11 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 - Executable file for Windows can be downloaded from the [Releases](https://github.com/I-A-Team/ChatGPT-UI/releases) page.
 - 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v1.0/ChatGPT-UI.exe)
 
-## Configuration
-
-- **API Key**: Enter your OpenAI API key in the provided field. Toggle the fix/unfix status as needed.
-
-- **Proxy Settings**: Configure HTTP proxy settings if required.
-
-- **Language Preferences**: Set default source and target languages for translation.
-
 ## Video Guide on YouTube
 
-Learn how to use the ChatGPT Interface effectively by watching our video guide on YouTube. The guide covers topics such as prompt selection, language translation, clipboard integration, and more. 
+Learn how to use the ChatGPT Interface effectively by watching our upcoming video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
 
-[![ChatGPT Interface YouTube Guide](path/to/your/youtube-thumbnail.png)](https://www.youtube.com/watch?v=yourvideoid)
+[Subscribe to our YouTube Channel](https://www.youtube.com/@AITwinMinds) for the latest updates and tutorials on ChatGPT Interface. Stay tuned for the upcoming video guide!
 
 ## Contributions
 
