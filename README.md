@@ -46,7 +46,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 ## Download
 
 - Executable file for Windows can be downloaded from the [Releases](https://github.com/I-A-Team/ChatGPT-UI/releases) page.
-- 💻 **Executable for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v1.0/ChatGPT-UI.exe)
+- 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v1.0/ChatGPT-UI.exe)
 
 ## Configuration
 
