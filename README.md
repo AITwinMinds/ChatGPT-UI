@@ -87,7 +87,7 @@ This app is completely free! If you find it helpful, consider supporting us in t
 
 - 📸 Follow us on Instagram: [@AITwinMinds](https://www.instagram.com/AITwinMinds)
   
-- 🐦 Follow us on Twitter: [@AITwinMinds](https://twitter.com/AITwinMinds)
+- 🐦 Follow us on X (Twitter): [@AITwinMinds](https://twitter.com/AITwinMinds)
 
 - 🎥 Subscribe to our YouTube Channel: [AITwinMinds](https://www.youtube.com/@AITwinMinds) for video tutorials and updates.
 
