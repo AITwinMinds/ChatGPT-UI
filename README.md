@@ -25,7 +25,9 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **📋 Clipboard Integration**: Easily apply text from the clipboard as part of the prompt with a single checkbox.
 
-![Your Animation](https://github.com/AITwinMinds/ChatGPT-UI/blob/main/Test_video.mp4)
+<div align="center">
+  <video src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3d32e148-c6cf-4ea3-b13e-5aed38143f7f" width="400" />
+</div>
 
 ## Usage
 
@@ -41,11 +43,21 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 6. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
 
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/25770598-de4b-4a4d-95ee-e358e74af35a" />
+</div>
+<br>
+
 7. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
 
-8. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d64a099b-0dc7-4422-8ed1-c91eaed7f0ab" />
+</div>
+<br>
 
-9. **Stop Process**: Click the "Stop" button to halt the response generation process.
+9. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
+
+10. **Stop Process**: Click the "Stop" button to halt the response generation process.
 
 ## Download
 
