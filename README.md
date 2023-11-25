@@ -1,6 +1,6 @@
 <h1 align="left">ChatGPT Interface</h1>
 
-<img align="right" width="100" height="100" src="https://github.com/I-A-Team/ChatGPT-UI/blob/main/icon.png" alt="ChatGPT Interface">
+<img align="right" width="100" height="100" src="https://github.com/AITwinMinds/ChatGPT-UI/blob/main/icon.png" alt="ChatGPT Interface">
 
 <!-- Rest of your README content goes here -->
 
@@ -31,17 +31,18 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Usage
 
-1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). If you're a free user, the first three months are free. After this period, consider becoming a plus user or creating a new account to access an additional three months of free usage.
+1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). <br>
+(If you're a free user, the first three months are free. After this period, consider becoming a plus user or creating a new account to access an additional three months of free usage.)
 
-2. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
+3. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
-3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button.
+4. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button.
 
-4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
+5. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
-5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+6. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
 
-6. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
+7. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/25770598-de4b-4a4d-95ee-e358e74af35a" />
@@ -61,7 +62,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Download
 
-- Executable file for Windows can be downloaded from the [Releases](https://github.com/I-A-Team/ChatGPT-UI/releases) page.
+- Executable file for Windows can be downloaded from the [Releases](https://github.com/AITwinMinds/ChatGPT-UI/releases) page.
 - 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v1.0/ChatGPT-UI.exe)
 
 ## Video Guide on YouTube
@@ -77,6 +78,22 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+## Support Us
+
+This app is completely free! If you find it helpful, consider supporting us in the following ways:
+
+- ⭐ Star this repository on [GitHub](https://github.com/AITwinMinds/ChatGPT-UI).
+
+- 📸 Follow us on Instagram: [@AITwinMinds](https://www.instagram.com/AITwinMinds)
+  
+- 🐦 Follow us on Twitter: [@AITwinMinds](https://twitter.com/AITwinMinds)
+
+- 🎥 Subscribe to our YouTube Channel: [AITwinMinds](https://www.youtube.com/@AITwinMinds) for video tutorials and updates.
+
+- 📣 Join our Telegram Channel: [AITwinMinds](https://t.me/AITwinMinds) for discussions and announcements.
+
+Don't forget to provide feedback by commenting on the repository and help us make it better. Share it with your friends and let them benefit from this tool, too!
 
 ## Contact
 
