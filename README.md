@@ -32,7 +32,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 ## Usage
 
 1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). <br>
-(If you're a free user, the first three months are free. After this period, consider becoming a plus user or creating a new account to access an additional three months of free usage.)
+(As a free user, you can enjoy the first three months of API key usage for free. After this period, consider becoming a ChatGPT Plus user or creating a new account to access an additional three months of free usage.)
 
 3. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
