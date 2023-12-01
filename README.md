@@ -34,13 +34,15 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 1. **Obtaining API Key**: Obtain your API key from OpenAI platform ([https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)). <br>
 (As a free user, you can enjoy the first three months of API key usage for free. After this period, consider becoming a ChatGPT Plus user or creating a new account to access an additional three months of free usage.)
 
-3. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
+2. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
-4. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button.
+3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
 
-5. **Language Translation**: If translating, select the source and target languages from the dropdowns.
+4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
-6. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+
+6. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
 
 7. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
 
@@ -63,7 +65,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 ## Download
 
 - Executable file for Windows can be downloaded from the [Releases](https://github.com/AITwinMinds/ChatGPT-UI/releases) page.
-- 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v1.0/ChatGPT-UI.exe)
+- 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI.exe)
 
 ## Video Guide on YouTube
 
@@ -93,7 +95,7 @@ This app is completely free! If you find it helpful, consider supporting us in t
 
 - 📣 Join our Telegram Channel: [AITwinMinds](https://t.me/AITwinMinds) for discussions and announcements.
 
-Don't forget to provide feedback by commenting on the repository and help us make it better. Share it with your friends and let them benefit from this tool, too!
+Don't forget to provide feedback by commenting on the repository and help us make it better. Share it with your friends and let them benefit from this tool!
 
 ## Contact
 
