@@ -81,10 +81,14 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 10. **Stop Process**: Click the "Stop" button to halt the response generation process.
 
+
 ## Download
 
-- Executable file for Windows can be downloaded from the [Releases](https://github.com/AITwinMinds/ChatGPT-UI/releases) page.
-- 💻 **Latest release for Windows**: [Direct Download](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI.exe)
+- Executable files for different operating systems can be downloaded from the [Releases](https://github.com/AITwinMinds/ChatGPT-UI/releases) page.
+
+  - 💻 **Windows**: [Direct download for Windows](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Windows.exe)
+
+  - 🍏 **macOS**: [Direct download for macOS](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-macOS.app.zip)
 
 ## Video Guide on YouTube
 
