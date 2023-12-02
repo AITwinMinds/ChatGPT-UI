@@ -22,9 +22,6 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **📋 Clipboard Integration**: Easily apply text from the clipboard as part of the prompt with a single checkbox.
 
-<div align="center">
-  <video src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3d32e148-c6cf-4ea3-b13e-5aed38143f7f" width="400" />
-</div>
 
 ## Usage
 
