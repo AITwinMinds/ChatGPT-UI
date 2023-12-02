@@ -88,8 +88,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
   - 💻 **Windows**: [Direct download for Windows](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Windows.exe)
   - 🍏 **macOS**: [Direct download for macOS](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-macOS.app.zip)
-  - 🐧 **Linux**: [Direct download for Linux](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Linux.zip)
-
+  - 🐧 **Linux**: [Direct download for Linux](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Linux)
 
 ## Video Guide on YouTube
 
