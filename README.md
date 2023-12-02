@@ -35,42 +35,42 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 </div>
 <br>
 
-4. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
+3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3746419a-d80a-4f79-ada2-7a3ded7f397a" />
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3618b196-d238-4e05-9932-295ddb60238a" height="120" />
 </div>
 
-6. **Language Translation**: If translating, select the source and target languages from the dropdowns.
+4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/97f0e93d-0116-4277-b569-581fcec59075" />
 </div>
 <br>
 
-7. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/c09f2324-beff-41e2-86db-0822218b103e" />
 </div>
 <br>
 
-9. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
+6. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d1af7244-a32a-4ec8-92fb-8b528464e3da" />
 </div>
 <br>
 
-11. **Input Text**: Enter the prompt manually or input text for manual prompts.
+7. **Input Text**: Enter the prompt manually or input text for manual prompts.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/6e30f217-0b7e-420b-a5f3-9be214ccf5a3" />
 </div>
 <br>
 
-7. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
+8. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
 
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d64a099b-0dc7-4422-8ed1-c91eaed7f0ab" />
