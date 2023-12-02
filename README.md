@@ -90,6 +90,11 @@ This repository contains a graphical user interface (GUI) for seamless interacti
   - 🍏 **macOS**: [Direct download for macOS](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-macOS.app.zip)
   - 🐧 **Linux**: [Direct download for Linux](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Linux)
 
+- Linux users can run the application using the following command:
+
+```bash
+./ChatGPT-UI-Linux
+```
 ## Video Guide on YouTube
 
 Learn how to use the ChatGPT Interface effectively by watching our upcoming video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
