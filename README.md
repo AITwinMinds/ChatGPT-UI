@@ -90,11 +90,33 @@ This repository contains a graphical user interface (GUI) for seamless interacti
   - 🍏 **macOS**: [Direct download for macOS](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-macOS.app.zip)
   - 🐧 **Linux**: [Direct download for Linux](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Linux)
 
-- Linux users can run the application using the following command:
+## Running on Linux
+Linux users can run the application using the following command:
 
 ```bash
 ./ChatGPT-UI-Linux
 ```
+
+If you encounter a "Permission denied" error, follow these steps:
+
+1. Navigate to the directory containing the ChatGPT-UI-Linux executable:
+
+    ```bash
+    cd /path/to/directory/containing/
+    ```
+
+2. Grant execute permissions to the ChatGPT-UI-Linux file:
+
+    ```bash
+    chmod +x ChatGPT-UI-Linux
+    ```
+
+3. Try running the application again:
+
+    ```bash
+    ./ChatGPT-UI-Linux
+    ```
+    
 ## Video Guide on YouTube
 
 Learn how to use the ChatGPT Interface effectively by watching our upcoming video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
