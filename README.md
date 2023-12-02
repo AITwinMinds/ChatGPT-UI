@@ -36,18 +36,43 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 2. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
-3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/23088338-ecff-4aac-b96f-39fc9c15e56a" />
+</div>
+<br>
 
-4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
+4. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
 
-5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+<div align="left">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/021705c2-cb0f-4eef-9899-382b0ab23680" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3618b196-d238-4e05-9932-295ddb60238a" height="400" />
+</div>
 
-6. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
-
-7. **Input Text**: Enter the prompt manually or input text for manual prompts or code debugging.
+6. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/25770598-de4b-4a4d-95ee-e358e74af35a" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/97f0e93d-0116-4277-b569-581fcec59075" />
+</div>
+<br>
+
+7. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/c09f2324-beff-41e2-86db-0822218b103e" />
+</div>
+<br>
+
+9. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
+
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d1af7244-a32a-4ec8-92fb-8b528464e3da" />
+</div>
+<br>
+
+11. **Input Text**: Enter the prompt manually or input text for manual prompts.
+
+<div align="center">
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/6e30f217-0b7e-420b-a5f3-9be214ccf5a3" />
 </div>
 <br>
 
