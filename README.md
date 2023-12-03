@@ -38,8 +38,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 3. **Prompt Selection**: Choose the type of prompt you want to generate by selecting the appropriate radio button. For rephrasing, use the new dropdown menu that offers five different types, including Simplify, Informal, Professional, Formal, and Generalize.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3746419a-d80a-4f79-ada2-7a3ded7f397a" />
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/3618b196-d238-4e05-9932-295ddb60238a" height="121" width="594" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/eb844792-55d7-4e1e-be56-4db845da692c" />
 </div>
 
 4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
