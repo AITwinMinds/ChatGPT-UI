@@ -40,6 +40,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 <div align="center">
   <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/eb844792-55d7-4e1e-be56-4db845da692c" />
 </div>
+<br>
 
 4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
@@ -135,14 +136,15 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 This app is completely free! If you find it helpful, consider supporting us in the following ways:
 
 - ⭐ Star this repository on [GitHub](https://github.com/AITwinMinds/ChatGPT-UI).
-
-- 📸 Follow us on Instagram: [@AITwinMinds](https://www.instagram.com/AITwinMinds)
   
 - 🐦 Follow us on X (Twitter): [@AITwinMinds](https://twitter.com/AITwinMinds)
 
+- 📣 Join our Telegram Channel: [AITwinMinds](https://t.me/AITwinMinds) for discussions and announcements.
+
 - 🎥 Subscribe to our YouTube Channel: [AITwinMinds](https://www.youtube.com/@AITwinMinds) for video tutorials and updates.
 
-- 📣 Join our Telegram Channel: [AITwinMinds](https://t.me/AITwinMinds) for discussions and announcements.
+- 📸 Follow us on Instagram: [@AITwinMinds](https://www.instagram.com/AITwinMinds)
+
 
 Don't forget to provide feedback by commenting on the repository and help us make it better. Share it with your friends and let them benefit from this tool!
 
