@@ -16,7 +16,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **🖋️ Prompt Options**: Choose from a variety of prompt options, including:
 
-   - Rephrasing (Styles: simplify, informal, professional, formal, and generalize)
+   - Rephrasing (Styles: `simplify`, `informal`, `professional`, `formal`, and `generalize`)
    - Debugging code
    - Summarizing
    - Translating
