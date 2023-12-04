@@ -14,7 +14,14 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **🤝 User-Friendly Interface**: Enjoy a clean and intuitive interface for easy prompt input and response viewing.
 
-- **🖋️ Prompt Options**: Select from various prompt options such as rephrase, debug code, summarize, translate, reply to email, explain, and manual prompts.
+- **🖋️ Prompt Options**: Select from various prompt options such as:
+  1. Rephrasing
+  2. Debugging codes
+  3. Summarizing
+  4. Translating
+  5. Replying to emails
+  6. Explaining
+  7. Manual prompts
 
 - **🌐 Language Translation**: Translate text from one language to another using the language dropdowns.
 
