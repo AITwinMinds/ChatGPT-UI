@@ -39,7 +39,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 2. **Entering API Key**: Once you have your API key, enter it into the designated field in the interface. You can toggle the fix/unfix status by clicking "Fix/Unfix API Key."
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/af397689-1aff-4cf2-9bae-8ddda9226211" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/87d1c639-da90-48ab-9426-182eba660940" />
 </div>
 <br>
 
