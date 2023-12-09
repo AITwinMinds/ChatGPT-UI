@@ -98,6 +98,23 @@ This repository contains a graphical user interface (GUI) for seamless interacti
   - 🍏 **macOS**: [Direct download for macOS](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-macOS.app.zip)
   - 🐧 **Linux**: [Direct download for Linux](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v2.0/ChatGPT-UI-Linux)
 
+## Running on macOS
+1. **Download the .app.zip file.**
+2. **Open Terminal and navigate to the directory where you downloaded the file and unzip the file:**
+ ```bash
+ cd /path/to/downloaded/file
+ unzip ChatGPT-UI-macOS.app.zip
+ ```
+3. **Fix Damaged App Error:**
+- If you encounter the "ChatGPT-UI-macOS.app is damaged and can't be opened" error, run the following commands in Terminal:
+```bash
+cd /path/to/extracted/folder
+xattr -rc ChatGPT-UI-macOS.app && codesign --force --deep --sign - ChatGPT-UI-macOS.app
+```
+4. **Run the App:**
+   - After completing the above steps, try running the application again.
+
+
 ## Running on Linux
 Linux users can run the application using the following command:
 
