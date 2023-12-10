@@ -2115,7 +2115,7 @@ class GPTUI(QWidget):
                 if self.checkbox_clipboard.isChecked():
                     original_text = QApplication.clipboard().text()
                 else:
-                    original_text = self.input_text.toPlainText()
+                    original_text = self.text_editor.toPlainText()
                 if self.theme_flag == 1:
                     html_diff = generate_html_diff(original_text, full_text_plain, dark_mode=True)
                 else:
