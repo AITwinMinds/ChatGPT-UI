@@ -151,7 +151,13 @@ If you encounter a "Permission denied" error, follow these steps:
     ```bash
     ./ChatGPT-UI-Linux
     ```
-    
+## Theme
+
+1. Windows:
+![image](https://github.com/AITwinMinds/ChatGPT-UI/assets/100919352/a114f5e2-4647-4ff1-8cac-7db0b05586ae)
+
+2. MacOS:
+   
 ## Video Guide on YouTube
 
 Learn how to use the ChatGPT Interface effectively by watching our upcoming video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
