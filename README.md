@@ -154,9 +154,11 @@ If you encounter a "Permission denied" error, follow these steps:
 ## Theme
 
 1. Windows:
-![image](https://github.com/AITwinMinds/ChatGPT-UI/assets/100919352/a114f5e2-4647-4ff1-8cac-7db0b05586ae)
 
-2. MacOS:
+![Windows_theme](https://github.com/AITwinMinds/ChatGPT-UI/assets/100919352/f68023e1-57a4-4180-b08c-2784b38a4332)
+
+
+3. MacOS:
    
 ## Video Guide on YouTube
 
