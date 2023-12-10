@@ -6,30 +6,40 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 ## Features
 
-- **🌙 Dark Theme**: Enjoy a sleek and eye-friendly dark theme for a comfortable and visually appealing interface, especially during nighttime usage.
+- **🌙 Dark Theme & ☀️ Light Theme**: Enjoy a sleek and eye-friendly dark theme for a comfortable and visually appealing interface, especially during nighttime usage. Additionally, a light theme is now available for a refreshing look.
   
 - **🔝 Always On Top**: Quickly access ChatGPT UI with the enhanced "Always On Top" feature, allowing you to keep it above other applications.
 
 - **🔄 HTTP Proxy Support**: Enable an HTTP proxy for communication with the ChatGPT API.
 
-- **🤝 User-Friendly Interface**: Enjoy a clean and intuitive interface for easy prompt input and response viewing.
-
 - **🖋️ Prompt Options**: Choose from a variety of prompt options, including:
 
-   - Rephrasing (Styles: `simplify`, `informal`, `professional`, `formal`, and `generalize`)
-   - Debugging code
-   - Summarizing
-   - Translating
-   - Responding to emails
-   - Explaining
-   - Manual prompts
+   - **Paraphrasing**: `Standard`, `Fluency`, `Formal`, `Academic`, `Simple`, `Creative`, `Expand`, and `Shorten`
+
+   - **Rewrite Level Selector**: Choose how many different rewrites you want to receive (max 20).
+
+   - **Other Prompt Options**:
+      - Debug code
+      - Summarize
+      - Custom prompt 
+      - Check grammar
+      - Translate
+      - Reply to email
+      - Explain
 
 - **🌐 Language Translation**: Translate text from one language to another using the language dropdowns.
+
+- **✍️ Grammar Checker**: Correct and provide in Original Text, Differences Highlighted, and Corrected Text.
+
+- **📧 Enhance Email Prompt**: Add specific information to enhance the email prompt with a convenient checkbox option.
 
 - **🎨 Code Highlighting**: Code blocks in the output are highlighted for better readability.
 
 - **📋 Clipboard Integration**: Easily apply text from the clipboard as part of the prompt with a single checkbox.
 
+- **🔒 Keep Previous Responses**: Retain previous responses while generating a new one by toggling the checkbox option.
+
+- **🤝 User-Friendly Interface**: Enjoy a clean and intuitive interface for easy prompt input and response viewing.
 
 ## Usage
 
