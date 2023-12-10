@@ -8,7 +8,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **🌙 Dark Theme & ☀️ Light Theme**: Enjoy a sleek and eye-friendly dark theme for a comfortable and visually appealing interface, especially during nighttime usage. Additionally, a light theme is now available for a refreshing look.
   
-- **🔝 Always On Top**: Quickly access ChatGPT UI with the enhanced "Always On Top" feature, allowing you to keep it above other applications.
+- **🔝 Always On Top**: Quickly access ChatGPT UI with the enhanced *Always On Top* feature, allowing you to keep it above other applications.
 
 - **🔄 HTTP Proxy Support**: Enable an HTTP proxy for communication with the ChatGPT API.
 
@@ -29,7 +29,7 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 
 - **🌐 Language Translation**: Translate text from one language to another using the language dropdowns.
 
-- **✍️ Grammar Checker**: Correct and provide in Original Text, Differences Highlighted, and Corrected Text.
+- **✍️ Grammar Checker**: Correct and provide in `Original Text`, `Differences Highlighted`, and `Corrected Text`.
 
 - **📧 Enhance Email Prompt**: Add specific information to enhance the email prompt with a convenient checkbox option.
 
