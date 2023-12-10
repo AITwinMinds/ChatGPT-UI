@@ -168,9 +168,11 @@ If you encounter a "Permission denied" error, follow these steps:
    
 ## Video Guide on YouTube
 
-Learn how to use the ChatGPT Interface effectively by watching our upcoming video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
+Learn how to use the ChatGPT Interface effectively by watching our video guide on YouTube. The guide will cover topics such as prompt selection, language translation, clipboard integration, and more.
 
-[Subscribe to our YouTube Channel](https://www.youtube.com/@AITwinMinds) for the latest updates and tutorials on ChatGPT Interface. Stay tuned for the upcoming video guide!
+[Subscribe to our YouTube Channel](https://www.youtube.com/@AITwinMinds) for the latest updates and tutorials on ChatGPT Interface.
+
+[![](https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/a3bb1095-6db1-41ec-9502-df44018269b4)](https://www.youtube.com/watch?v=t8DqWHmyT-A)
 
 ## Contributions
 
