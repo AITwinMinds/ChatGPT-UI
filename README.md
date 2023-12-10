@@ -63,42 +63,45 @@ This repository contains a graphical user interface (GUI) for seamless interacti
 4. **Language Translation**: If translating, select the source and target languages from the dropdowns.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/97f0e93d-0116-4277-b569-581fcec59075" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/a83252d7-cd1a-4852-942d-eb43d65d086d" />
 </div>
 <br>
 
-5. **Clipboard Option**: By checking the "Use last clipboard text" checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries.
+5. **Clipboard Option and Keep Previous Responses**: By checking the *Use last clipboard text* checkbox, you can easily apply the text from your clipboard as part of the prompt. This provides a quick way to incorporate external content into your queries. Additionally, you can toggle the *Keep Previous Responses* checkbox to retain previous responses while generating a new one.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/c09f2324-beff-41e2-86db-0822218b103e" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/f712739b-450d-4a20-90ec-10c56226621c" />
 </div>
 <br>
 
 6. **Email Reply Customization**: When replying to emails, you can now add specific details to the prompt for a more personalized and context-aware response.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d1af7244-a32a-4ec8-92fb-8b528464e3da" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d7631e57-b43b-45a5-98e8-0984631786a4" />
 </div>
 <br>
 
 7. **Input Text**: Enter the prompt manually or input text for manual prompts.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/6e30f217-0b7e-420b-a5f3-9be214ccf5a3" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/c226e33d-7f88-471c-8981-859465ccd3dc" />
 </div>
 <br>
 
 8. **HTTP Proxy**: Enable the HTTP proxy option and configure the proxy server and port if necessary.
 
 <div align="center">
-  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/d64a099b-0dc7-4422-8ed1-c91eaed7f0ab" />
+  <img src="https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/a02ff681-6d0c-4033-9bc0-543986cbf3ad" />
 </div>
 <br>
 
-9. **Generate Response**: Click the "Generate" button to generate a response based on the selected options.
+9. **Generate Response**: Click the *Generate* button to generate a response based on the selected options.
 
-10. **Stop Process**: Click the "Stop" button to halt the response generation process.
+10. **Clear Response**: Click the *Clear response* button to remove the current response, providing a clean slate for new queries.
 
+11. **Copy Response**: Click the *Copy response* button to copy the generated response to your clipboard for easy sharing or reference.
+
+12. **Stop Process**: Click the *Stop* button to halt the response generation process.
 
 ## Download
 
