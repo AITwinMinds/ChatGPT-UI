@@ -90,7 +90,7 @@ Chrome Mode provides an alternative method to use ChatGPT-UI without requiring a
    - Close all instances of Chrome before switching to Chrome Mode.
    - Ensure you work with only a single instance while in Chrome Mode for optimal performance.
 
-For additional assistance, refer to the [YouTube usage guide](#).
+For additional assistance, refer to the [YouTube usage guide](https://youtube.com/watch?v=-vK_DhCPcHk).
 
 ### File Uploading Feature
 
@@ -107,7 +107,7 @@ Before using the file uploading feature, ensure you have completed the following
 2. **Enjoy Uploading:**
    - Once the extension is successfully installed, you gain the ability to upload files such as PDFs during your interactions with ChatGPT.
 
-For additional assistance, refer to the [YouTube usage guide](#).
+For additional assistance, refer to the [YouTube usage guide](https://youtube.com/watch?v=-vK_DhCPcHk).
 
 ## Download
 
@@ -172,7 +172,7 @@ Learn how to use the ChatGPT Interface effectively by watching our video guide o
 
 [Subscribe to our YouTube Channel](https://www.youtube.com/@AITwinMinds) for the latest updates and tutorials on ChatGPT Interface.
 
-[![](https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/9af9d5e0-f79f-443d-a8a2-0697f51898ac)](#)
+[![](https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/9af9d5e0-f79f-443d-a8a2-0697f51898ac)](https://youtube.com/watch?v=-vK_DhCPcHk)
 
 ## Contributions
 
