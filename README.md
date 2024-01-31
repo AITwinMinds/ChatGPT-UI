@@ -4,6 +4,9 @@
 
 This repository contains a graphical user interface (GUI) for seamless interaction with OpenAI's GPT-3.5 Turbo model using the ChatGPT API. The interface, built using PyQt5, offers an intuitive and feature-rich environment for generating responses, rephrasing text, debugging code, summarizing content, translating languages, and more.
 
+<br></br>
+![](https://github.com/AITwinMinds/ChatGPT-UI/assets/127874551/a65fcd16-3db6-46be-b355-d095cef91a14)
+
 ## Features
 
 - **🌙 Dark Theme & ☀️ Light Theme**: Enjoy a sleek and eye-friendly dark theme for a comfortable and visually appealing interface, especially during nighttime usage. Additionally, a light theme is now available for a refreshing look.
