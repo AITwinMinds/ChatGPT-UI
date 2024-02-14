@@ -120,6 +120,8 @@ For additional assistance, refer to the [YouTube usage guide](https://youtube.co
   - 🍏 **macOS**: [Direct download for macOS (version 3)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v3.0/ChatGPT-UI-macOS.app.zip)
   - 🐧 **Linux**: [Direct download for Linux (version 3)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v3.0/ChatGPT-UI-Linux)
 
+Note: This project is currently inactive. Version 4 for macOS and Linux, and further updates, were planned to be provided once this repository reached 200 stars.
+
 ## Running on macOS
 1. **Download the .app.zip file.**
 2. **Open Terminal and navigate to the directory where you downloaded the file and unzip the file:**
