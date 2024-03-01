@@ -116,7 +116,7 @@ For additional assistance, refer to the [YouTube usage guide](https://youtube.co
 
 - Executable files for different operating systems can be downloaded from the [Releases](https://github.com/AITwinMinds/ChatGPT-UI/releases) page.
 
-  - 💻 **Windows**: [Direct download for Windows (version 4)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v4.0/ChatGPT-UI-Windows.exe)
+  - 💻 **Windows**: [Direct download for Windows (version 4.2)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v4.2/ChatGPT-UI-Windows.exe)
   - 🍏 **macOS**: [Direct download for macOS (version 3)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v3.0/ChatGPT-UI-macOS.app.zip)
   - 🐧 **Linux**: [Direct download for Linux (version 3)](https://github.com/AITwinMinds/ChatGPT-UI/releases/download/v3.0/ChatGPT-UI-Linux)
 
@@ -206,4 +206,4 @@ Don't forget to provide feedback by commenting on the repository and help us mak
 
 ## Contact
 
-For any inquiries, please contact us at [AITwinMinds@gmail.com](mailto:AITwinMinds@gmail.com).
+For any inquiries, project contributions, AI project consultations, please feel free to contact us at [AITwinMinds@gmail.com](mailto:AITwinMinds@gmail.com).
